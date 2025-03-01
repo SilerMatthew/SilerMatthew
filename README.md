@@ -14,7 +14,6 @@
 ### 🛠 &nbsp;Tech Stack:
 
 ![RStudio](https://img.shields.io/badge/RStudio-1f65cc?style=flat&logo=rstudioide&logoColor=%2375AADB)&nbsp;
-![RShiny](https://img.shields.io/badge/RStudio-1f65cc?style=flat&logo=rstudioide&logoColor=%2375AADB)&nbsp;
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?logo=tidyverse)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-ffe873?style=flat&logo=python)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-ececec?style=flat&logo=streamlit)&nbsp;
